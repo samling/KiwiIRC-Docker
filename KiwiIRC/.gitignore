@@ -1,0 +1,7 @@
+*.DS_*
+.idea
+doc/
+kiwi.log
+kiwiirc.pid
+cert.pem
+server.key
